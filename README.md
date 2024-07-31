@@ -20,6 +20,15 @@ Je pense à d'autres choses qu'on pourra mettre en place ensuite mais on va déj
 
 J'ai décidé de choisir le langage Python pour l'application car il permet une utilisation simple peu importe le système d'exploitation (Linux, Windows, MacOS...). La sortie et l'entrée utilisateur se feront en console.
 
+## Estimation du temps de réalisation et dates butoires
+
+Date butoire pour livraison: 02/08/2024
+
+- Cahier des charges, choix des techno: 1h
+- Développement de l'application: 4h
+- Documentation: 1h
+Total: 6h
+
 ## Décisions techniques
 
 Les valeurs et noms des piêces et des billets sont stockés dans un dictionnaire pour les rendre modifiable facilement (en cas de changement de monnaie)
