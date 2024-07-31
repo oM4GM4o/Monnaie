@@ -19,3 +19,7 @@ Je pense à d'autres choses qu'on pourra mettre en place ensuite mais on va déj
 ## Choix des techno
 
 J'ai décidé de choisir le langage Python pour l'application car il permet une utilisation simple peu importe le système d'exploitation (Linux, Windows, MacOS...). La sortie et l'entrée utilisateur se feront en console.
+
+## Décisions techniques
+
+- Les valeurs et noms des piêces et des billets sont stockés dans un dictionnaire pour les rendre modifiable facilement (en cas de changement de monnaie)
