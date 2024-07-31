@@ -22,4 +22,4 @@ J'ai décidé de choisir le langage Python pour l'application car il permet une 
 
 ## Décisions techniques
 
-- Les valeurs et noms des piêces et des billets sont stockés dans un dictionnaire pour les rendre modifiable facilement (en cas de changement de monnaie)
+Les valeurs et noms des piêces et des billets sont stockés dans un dictionnaire pour les rendre modifiable facilement (en cas de changement de monnaie)
