@@ -27,7 +27,7 @@ Date butoire pour livraison: 02/08/2024
 - Cahier des charges, choix des techno: 1h
 - Développement de l'application: 4h
 - Documentation: 1h
-Total: 6h
+- Total: 6h
 
 ## Décisions techniques
 
