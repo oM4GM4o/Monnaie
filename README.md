@@ -24,11 +24,11 @@ J'ai décidé de choisir le langage Python pour l'application car il permet une 
 
 Date butoire pour livraison: 02/08/2024
 
-- Cahier des charges, choix des techno: 1h
-- Développement de l'application: 4h
-- Documentation: 1h
+- Cahier des charges, choix des techno: 1h30
+- Développement de l'application: 6h
+- Documentation: 1h30
 - Total: 6h
 
 ## Décisions techniques
 
-Les valeurs et noms des piêces et des billets sont stockés dans un dictionnaire pour les rendre modifiable facilement (en cas de changement de monnaie)
+Les valeurs et noms des piêces et des billets sont stockés dans un dictionnaire pour les rendre modifiable facilement (en cas de changement de monnaie). Cela permet aussi de creer un dictionnaire par monnaie différente (on pourrais en faire un pour le dollar américain, le dollar canadien...)
