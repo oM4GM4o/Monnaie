@@ -9,25 +9,15 @@ Je pense à d'autres choses qu'on pourra mettre en place ensuite mais on va déj
 
 ## Cahier des charges
 
-- L'application doit être simple et rapide
 - L'application doit prendre deux entrées en compte: le montant à payer et la somme que le client a donné
 - L'application doit calculer le nombre minimal de pièces et de billets que l'on doit rendre
 - L'application doit envoyer en sortie une quantité de monnaie à rendre
-- Choix libre pour le langage et de la techno
-- Le code doit être propre
+- La monnaie par défaut doit être le dollar canadien
+- L'application n'acceptera pas les billets de 100 dollar et plus
 
 ## Choix des techno
 
 J'ai décidé de choisir le langage Python pour l'application car il permet une utilisation simple peu importe le système d'exploitation (Linux, Windows, MacOS...). La sortie et l'entrée utilisateur se feront en console.
-
-## Estimation du temps de réalisation et dates butoires
-
-Date butoire pour livraison: 02/08/2024
-
-- Cahier des charges, choix des techno: 1h30
-- Développement de l'application: 6h
-- Documentation: 1h30
-- Total: 6h
 
 ## Décisions techniques
 
