@@ -7,13 +7,17 @@ J'aimerais un truc pour lequel je donne le montant à payer, la somme que m'a do
 
 Je pense à d'autres choses qu'on pourra mettre en place ensuite mais on va déjà faire cette étape, elle me simplifiera la vie.
 
-## Cahier des charges
+## Cahier des charges V.1
 
 - L'application doit prendre deux entrées en compte: le montant à payer et la somme que le client a donné
 - L'application doit calculer le nombre minimal de pièces et de billets que l'on doit rendre
 - L'application doit envoyer en sortie une quantité de monnaie à rendre
-- La monnaie par défaut doit être le dollar canadien
+- La monnaie est le dollar canadien pour cette version
 - L'application n'acceptera pas les billets de 100 dollar et plus
+
+## Cahier des charges V.2
+
+- 
 
 ## Choix des techno
 
