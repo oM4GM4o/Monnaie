@@ -26,3 +26,20 @@ J'ai décidé de choisir le langage Python pour l'application car il permet une 
 ## Décisions techniques
 
 Les valeurs et noms des piêces et des billets sont stockés dans un dictionnaire pour les rendre modifiable facilement (en cas de changement de monnaie). Cela permet aussi de creer un dictionnaire par monnaie différente (on pourrais en faire un pour le dollar américain, le dollar canadien...)
+
+## Tests
+
+Pour chaque champ:
+- Entrer un nombre négatif
+- Entrer un nombre positif
+- Entrer un nombre décimal avec une virgule
+- Entrer un nombre décimal avec un point
+- Entrer des caractères
+- Entrer un très grand nombre
+- Entrer 0
+- Ne rien entrer
+
+Tester le fonctionnement:
+- Entrer une somme payée plus petite que la somme à payer
+- Entrer une somme payée égale à la somme à payer
+- Entrer une somme payée plus grande que la somme à payer
